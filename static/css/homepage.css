@@ -1,0 +1,17 @@
+
+/* 分类相对距离 */
+#classify{
+    width: 300px;
+    height: 50px;
+    position: absolute;
+    top: 30%;
+    margin: -50px 0 0 0;
+    line-height: 25px;
+}
+
+
+/* 巨幕 */
+#imax{
+   width: 90%;
+   top: 30px;
+}
